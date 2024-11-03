@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Imskev
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning data sciance
+- 🌱 I’m currently learning data science
 - 📫 How to reach me ... kevinrotich9405gmail.com
 
 <!---
